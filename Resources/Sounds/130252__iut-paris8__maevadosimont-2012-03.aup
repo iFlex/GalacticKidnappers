@@ -1,0 +1,99 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="130252__iut-paris8__maevadosimont-2012-03_data" version="1.3.0" audacityversion="1.3.12-beta" sel0="0.1323212152" sel1="0.1323212152" vpos="0" h="0.0000000000" zoom="158.7047093271" rate="44100">
+	<tags>
+		<tag name="id3v2" value="1"/>
+		<tag name="YEAR" value="2011"/>
+		<tag name="ARTIST" value="Dosimont Maëva"/>
+	</tags>
+	<wavetrack name="130252__iut-paris8__maevadosimont-2012-03" channel="2" linked="0" mute="0" solo="0" height="150" minimized="0" rate="44100" gain="1" pan="0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="203126">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000cde.au" len="203126" min="-0.309753" max="0.307678" rms="0.096688"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="EggCheer2 1" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" rate="48000" gain="1" pan="0">
+		<waveclip offset="0.97666667">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="24325">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000f4b.au" len="24325" min="-0.928809" max="0.911568" rms="0.200308"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="EggCheer2" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" rate="48000" gain="1" pan="0">
+		<waveclip offset="0.97666667">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="24325">
+				<waveblock start="0">
+					<simpleblockfile filename="e00009eb.au" len="24325" min="-0.928689" max="0.911718" rms="0.200308"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="eggCheer4 1" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" rate="48000" gain="1" pan="0">
+		<waveclip offset="2.00370833">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="28823">
+				<waveblock start="0">
+					<simpleblockfile filename="e000089f.au" len="28823" min="-0.966209" max="0.904254" rms="0.165979"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="eggCheer4" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" rate="48000" gain="1" pan="0">
+		<waveclip offset="2.00370833">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="28823">
+				<waveblock start="0">
+					<simpleblockfile filename="e000098f.au" len="28823" min="-0.966163" max="0.904126" rms="0.16598"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="EggCheer5 1" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" rate="48000" gain="1" pan="0">
+		<waveclip offset="3.29543750">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="25604">
+				<waveblock start="0">
+					<simpleblockfile filename="e00000c9.au" len="25604" min="-0.91781" max="0.916938" rms="0.186331"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="EggCheer5" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" rate="48000" gain="1" pan="0">
+		<waveclip offset="3.29543750">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="25604">
+				<waveblock start="0">
+					<simpleblockfile filename="e00001f5.au" len="25604" min="-0.918013" max="0.916803" rms="0.186331"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="eggcheer6 1" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" rate="48000" gain="1" pan="0">
+		<waveclip offset="5.12056250">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="25604">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000c27.au" len="25604" min="-0.819074" max="0.851939" rms="0.173871"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="eggcheer6" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" rate="48000" gain="1" pan="0">
+		<waveclip offset="5.12056250">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="25604">
+				<waveblock start="0">
+					<simpleblockfile filename="e000030d.au" len="25604" min="-0.819077" max="0.852086" rms="0.173872"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+</project>
